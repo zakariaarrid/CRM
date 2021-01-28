@@ -1,0 +1,40 @@
+[2021-01-28 14:59:43] local.ERROR: There are no commands defined in the "lists" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"lists\" namespace. at /home/zakaria/Documents/gestion/vendor/symfony/console/Application.php:605)
+[stacktrace]
+#0 /home/zakaria/Documents/gestion/vendor/symfony/console/Application.php(656): Symfony\\Component\\Console\\Application->findNamespace()
+#1 /home/zakaria/Documents/gestion/vendor/symfony/console/Application.php(254): Symfony\\Component\\Console\\Application->find()
+#2 /home/zakaria/Documents/gestion/vendor/symfony/console/Application.php(166): Symfony\\Component\\Console\\Application->doRun()
+#3 /home/zakaria/Documents/gestion/vendor/laravel/framework/src/Illuminate/Console/Application.php(93): Symfony\\Component\\Console\\Application->run()
+#4 /home/zakaria/Documents/gestion/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(130): Illuminate\\Console\\Application->run()
+#5 /home/zakaria/Documents/gestion/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#6 {main}
+"} 
+[2021-01-28 15:00:26] local.ERROR: There are no commands defined in the "lists" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"lists\" namespace. at /home/zakaria/Documents/gestion/vendor/symfony/console/Application.php:605)
+[stacktrace]
+#0 /home/zakaria/Documents/gestion/vendor/symfony/console/Application.php(656): Symfony\\Component\\Console\\Application->findNamespace()
+#1 /home/zakaria/Documents/gestion/vendor/symfony/console/Application.php(254): Symfony\\Component\\Console\\Application->find()
+#2 /home/zakaria/Documents/gestion/vendor/symfony/console/Application.php(166): Symfony\\Component\\Console\\Application->doRun()
+#3 /home/zakaria/Documents/gestion/vendor/laravel/framework/src/Illuminate/Console/Application.php(93): Symfony\\Component\\Console\\Application->run()
+#4 /home/zakaria/Documents/gestion/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(130): Illuminate\\Console\\Application->run()
+#5 /home/zakaria/Documents/gestion/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#6 {main}
+"} 
+[2021-01-28 15:00:29] local.ERROR: There are no commands defined in the "list" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"list\" namespace. at /home/zakaria/Documents/gestion/vendor/symfony/console/Application.php:605)
+[stacktrace]
+#0 /home/zakaria/Documents/gestion/vendor/symfony/console/Application.php(656): Symfony\\Component\\Console\\Application->findNamespace()
+#1 /home/zakaria/Documents/gestion/vendor/symfony/console/Application.php(254): Symfony\\Component\\Console\\Application->find()
+#2 /home/zakaria/Documents/gestion/vendor/symfony/console/Application.php(166): Symfony\\Component\\Console\\Application->doRun()
+#3 /home/zakaria/Documents/gestion/vendor/laravel/framework/src/Illuminate/Console/Application.php(93): Symfony\\Component\\Console\\Application->run()
+#4 /home/zakaria/Documents/gestion/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(130): Illuminate\\Console\\Application->run()
+#5 /home/zakaria/Documents/gestion/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#6 {main}
+"} 
+[2021-01-28 15:00:32] local.ERROR: There are no commands defined in the "list" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"list\" namespace. at /home/zakaria/Documents/gestion/vendor/symfony/console/Application.php:605)
+[stacktrace]
+#0 /home/zakaria/Documents/gestion/vendor/symfony/console/Application.php(656): Symfony\\Component\\Console\\Application->findNamespace()
+#1 /home/zakaria/Documents/gestion/vendor/symfony/console/Application.php(254): Symfony\\Component\\Console\\Application->find()
+#2 /home/zakaria/Documents/gestion/vendor/symfony/console/Application.php(166): Symfony\\Component\\Console\\Application->doRun()
+#3 /home/zakaria/Documents/gestion/vendor/laravel/framework/src/Illuminate/Console/Application.php(93): Symfony\\Component\\Console\\Application->run()
+#4 /home/zakaria/Documents/gestion/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(130): Illuminate\\Console\\Application->run()
+#5 /home/zakaria/Documents/gestion/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#6 {main}
+"} 

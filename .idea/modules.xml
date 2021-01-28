@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../finalproject/.idea/finalproject.iml" filepath="$PROJECT_DIR$/../finalproject/.idea/finalproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gest.iml" filepath="$PROJECT_DIR$/.idea/gest.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/vuesjs/.idea/vuesjs.iml" filepath="$USER_HOME$/Desktop/vuesjs/.idea/vuesjs.iml" />
+    </modules>
+  </component>
+</project>

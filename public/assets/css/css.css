@@ -1,0 +1,23 @@
+
+.c22 td,.c11 td,.confirmed_order td{
+    color: black;
+    border-bottom-width: 0;
+    font-weight: bold;
+    font-style: italic;
+}
+.icon_custom i{
+   font-size: 40px !important;
+    
+}
+.notification{
+    color: #67af69; 
+}
+#myTable td{
+    font-size: 8pt !important;
+}
+.xdisplay_inputx.form-group.has-feedback{
+    padding-left:0 !important;
+}
+#single_cal1{
+    padding-left: 55px;
+}
